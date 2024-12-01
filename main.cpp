@@ -1,9 +1,9 @@
 
 /* 
  * File:   main.cpp
- * Author: JOAQUIN
+ * Author: Grupo 7 - Algoritmos Avanzados
  *
- * Created on 28 de junio de 2024, 04:06 PM
+ * Created on 28 de noviembre de 2024, 04:06 PM
  */
 
 #include <iostream>
